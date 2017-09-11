@@ -1,7 +1,7 @@
 # love_bot
 Lovebot to like every tweet with #coding(for example)
 
-Meet Twitter Bot that likes specific kind of tweets that is specified as a keyword in <code>bot.js</code> file.
+Meet Twitter Bot that likes specific kind of tweets that is specified as a <code>keyword</code> in <code>bot.js</code> file.
 Bot returns <code>"Liked! - tweet id: + tweet ID"</code>.
 Can be run through NodeJS invironment. Via:<code>
 node bot.js
